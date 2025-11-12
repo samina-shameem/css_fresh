@@ -1,6 +1,7 @@
 /*selector{property:value}*/
 h1{
     color:( blueviolet);
+    background-color: teal;
 }
 /*h3{
     color: rgb(114, 70, 6);
@@ -8,7 +9,13 @@ h1{
 /*rgb*/
 h2{
    color: rgb(255,233,145);
+   background-color: rgba(123,0,133,0.5);
 }
 h3{
     color:#ff0000;
+    background-color: #00ffff;
+}
+h4{
+    color: rgba(123,0,133,0.5);
+    background-color: rgba(255, 0, 0,0.5);
 }
