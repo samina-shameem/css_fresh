@@ -51,5 +51,11 @@ p{
     width: 100vw;
     height: 20vh;
 }*/
-
-
+/*Typography*/
+/*font-family*/
+h1{
+    font-family: serif;
+}
+h2{
+    font-family: sans-serif;
+}
