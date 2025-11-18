@@ -52,10 +52,11 @@ p{
     height: 20vh;
 }*/
 /*Typography*/
-/*font-family*/
+
 h1{
     font-family: serif;
     font-size: 50px;
+    text-transform: lowercase;
 }
 h2{
     font-family: sans-serif;
