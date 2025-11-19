@@ -57,7 +57,12 @@ h1{
     font-family: serif;
     font-size: 50px;
     text-transform: lowercase;
+    
 }
 h2{
     font-family: sans-serif;
+}
+p{
+    line-height: 45px;
+    letter-spacing:3px ;
 }
