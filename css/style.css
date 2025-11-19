@@ -57,6 +57,8 @@ h1{
     font-family: serif;
     font-size: 50px;
     text-transform: lowercase;
+    text-align: center;
+    text-decoration:overline;
     
 }
 h2{
