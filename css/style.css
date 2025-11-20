@@ -68,7 +68,8 @@ p{
     line-height: 45px;
     letter-spacing:3px ;
     word-spacing: 5px;
-     text-decoration:underline;
+     /*text-decoration:underline;*/
+     cursor: all-scroll;
 }
 a{
     text-decoration: none;
