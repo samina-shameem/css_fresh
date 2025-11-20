@@ -52,8 +52,8 @@ p{
     height: 20vh;
 }*/
 /*Typography*/
-
-h1{
+/*
+{h1{
     font-family: serif;
     font-size: 50px;
     text-transform: lowercase;
@@ -73,10 +73,10 @@ p{
     word-spacing: 5px;
      /*text-decoration:underline;*/
      /*pointr,all-scroll,copy*/
-     cursor: all-scroll;
-     font-weight: 700;
+     /*cursor: all-scroll;
+     font-weight: 700;*/
 }
-a{
+/*a{
     text-decoration: none;
     color: palevioletred;
-}
+}*/
