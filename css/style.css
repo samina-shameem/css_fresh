@@ -70,3 +70,6 @@ p{
     word-spacing: 5px;
      text-decoration:underline;
 }
+a{
+    text-decoration: none;
+}
