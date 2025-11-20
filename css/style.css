@@ -60,16 +60,20 @@ h1{
     text-align: center;
     text-decoration:overline;
     
+    
 }
 h2{
     font-family: sans-serif;
+    
 }
 p{
     line-height: 45px;
     letter-spacing:3px ;
     word-spacing: 5px;
      /*text-decoration:underline;*/
+     /*pointr,all-scroll,copy*/
      cursor: all-scroll;
+     font-weight: 700;
 }
 a{
     text-decoration: none;
