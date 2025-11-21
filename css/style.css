@@ -84,5 +84,6 @@ p{
 /*bOX MODEL*/
 div{
     border: width 2px;
-    border-style:solid ;
+    border-style:solid;
+    border-color:green;
 }
