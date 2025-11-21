@@ -74,10 +74,15 @@ p{
      /*text-decoration:underline;*/
      /*pointr,all-scroll,copy*/
      /*cursor: all-scroll;
-     font-weight: 700;*/
-}
+     font-weight: 700;=
+     */
+
 /*a{
     text-decoration: none;
     color: palevioletred;
 }*/
 /*bOX MODEL*/
+div{
+    border: width 2px;
+    border-style:solid ;
+}
