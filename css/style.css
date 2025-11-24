@@ -83,9 +83,9 @@ p{
 }*/
 /*bOX MODEL*/
 div{
-    border: width 2px;
+    /*border: width 2px;
     border-style:solid;
-    border-color:green;
+    border-color:green;*/
     
-    /*border: 20px dotted rgb(153, 26, 227);*/
+    border: 20px dotted rgb(153, 26, 227);
 }
