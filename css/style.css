@@ -87,5 +87,9 @@ div{
     border-style:solid;
     border-color:green;*/
     
-    border: 20px dotted rgb(153, 26, 227);
+    /*border: 20px dotted rgb(153, 26, 227);*/
+    border-top: 10px dotted olivedrab;
+    border-bottom:10px dotted rgb(203, 153, 15);
+    border-left: 10px dotted rgb(204, 7, 187);
+    border-right: 10px dotted rgb(41, 13, 219);
 }
