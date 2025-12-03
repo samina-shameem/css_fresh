@@ -82,10 +82,10 @@ p{
     color: palevioletred;
 }*/
 /*bOX MODEL*/
-/**{
+{
     margin: 0;
-}*/
-div{
+}
+/*div{*/
     /*border: width 2px;
     border-style:solid;
     border-color:green;*/
@@ -96,7 +96,7 @@ div{
     border-left: 10px dotted rgb(204, 7, 187);
     border-right: 10px dotted rgb(41, 13, 219);*/
 
-    border: 2px solid peru;
+    /*border: 2px solid peru;*/
     /*padding: 20px;
     
     padding-left: 10px ;
@@ -110,5 +110,5 @@ div{
     margin-top: 20px;
     margin-bottom: 10px;
     */
-    margin:  0 20px ;
-}
+    /*margin:  0 20px ;
+}*/
