@@ -130,8 +130,9 @@ div {
   
   background-position: left;
    background-positin: centrum;
-   
+
   */
+  background-attachment: fixed;
 
  
 }
