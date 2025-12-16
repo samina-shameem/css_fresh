@@ -142,7 +142,7 @@ p{
   margin: 0;
 }
 
-div{
+/*div{
     height: 100vh;
     background-image:linear-gradient(rgba(25, 193, 50, 0.232) ,rgba(255,0,0,0.298)),
                                      (teal,blue)
@@ -154,4 +154,11 @@ div{
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
-}
+    filter:blur(34%);
+    filter:brightness(50%);
+    filter:contrast(80%);
+    filter:grayscale(20%);
+    filter:saturate(40%);
+
+}*/
+
