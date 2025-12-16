@@ -138,9 +138,9 @@ p{
    we can change bottom,top,left,right.
  
 }*/
-*{
+/**{
   margin: 0;
-}
+}*/
 
 /*div{
     height: 100vh;
