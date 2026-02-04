@@ -167,4 +167,8 @@ p{
 }
 .clr2{
     color: blueviolet;
+    font-size: 4rem;
+}
+.clr3{
+    font-style: italic;
 }
