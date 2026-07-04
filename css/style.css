@@ -194,7 +194,8 @@ div.text{
 SELECTOR divp
 div p{
     color:crimson
-}*/
+}
+SELETOR div>p only for inside the child of the div(not for the other childs child )
 div>p{
     color:orange;
-}
+}*/
