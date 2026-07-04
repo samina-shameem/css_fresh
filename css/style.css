@@ -195,3 +195,6 @@ SELECTOR divp
 div p{
     color:crimson
 }*/
+div>p{
+    color:orange;
+}
