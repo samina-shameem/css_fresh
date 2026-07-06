@@ -198,8 +198,9 @@ div p{
 SELETOR div>p only for inside the child of the div(not for the other childs child )
 div>p{
     color:orange;
-}SELECTOR div+p* selects the first <p> element that is placed immediately after <div> elements*/
+}
+    SELECTOR div+p* selects the first <p> element that is placed immediately after <div> elements
 div+p{
     color:red;
-}
+}*/
 
