@@ -202,5 +202,15 @@ div>p{
     SELECTOR div+p* selects the first <p> element that is placed immediately after <div> elements
 div+p{
     color:red;
+} 
+    SPECIFICS ATTRIBUTES SELECTOR
+ a[href="wow"]{
+    color:rgb(225, 13, 228)
+ }
+  img[alt="sky"]{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left:5px ;
+    margin-right: 5px;
+    background-color: rgb(190, 12, 62);
 }*/
-
