@@ -215,9 +215,12 @@ div+p{
     background-color: rgb(190, 12, 62);
 }
     PSEUDO SELECTORS
-*/
+
 .link:link{
     color: brown;
 }
-.visited:visited { color: rgb(181, 220, 9); }
+.visited:visited { color: rgb(181, 220, 9);
+ }
+ */
+
 
