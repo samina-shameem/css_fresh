@@ -222,5 +222,15 @@ div+p{
 .visited:visited { color: rgb(181, 220, 9);
  }
  */
+ span{
+    background-color: brown;
+    /*width: 200px;
+    height: 200px;its not working because its effected all div */
+ }
+ div{
+    background-color: teal;
+    heigt: 200px;
+    width:200px;
+ }
 
 
