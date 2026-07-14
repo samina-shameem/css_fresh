@@ -225,8 +225,8 @@ div+p{
  /*DISPLAY(BLOCK ND INLINE)*/
  span{
     background-color: brown;
-    /*width: 200px;
-    height: 200px;its not working because its effected all div */
+    width: 200px;
+    height: 200px;/*its not working because its effected all div */
  }
  div{
     background-color: teal;
