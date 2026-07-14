@@ -222,6 +222,7 @@ div+p{
 .visited:visited { color: rgb(181, 220, 9);
  }
  */
+ /*DISPLAY(BLOCK ND INLINE)*/
  span{
     background-color: brown;
     /*width: 200px;
