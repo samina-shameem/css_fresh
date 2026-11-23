@@ -245,3 +245,15 @@ color:blue;
 .fa-trophy{
     color:rgb(178, 9, 46);
 }*/
+/*SHADOWS*/
+/*x, y, blurness,color*/
+/*div{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(140, 65, 236);
+    box-shadow: 10px 10px 20px orange;
+    box-shadow: 3px 4px 10px rgb(245, 60, 60);
+}*/
+body{
+    background-color: rgb(234, 122, 140);
+}
