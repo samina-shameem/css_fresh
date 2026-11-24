@@ -262,7 +262,12 @@ div{
     width: 200px;
     height: 100px;
     background-color: rgb(12, 12, 12);
-}*/
+}
+
+
+    ------TEXT SHADOWS-----
+
+
 body{
     background-color: aliceblue;
 }
@@ -273,4 +278,4 @@ h1{
     text-align:center;
     margin-top: 50px;
     background-color: rgb(12, 12, 12);
-}
+}*/
