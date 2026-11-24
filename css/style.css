@@ -254,6 +254,14 @@ color:blue;
     box-shadow: 10px 10px 20px orange;
     box-shadow: 3px 4px 10px rgb(245, 60, 60);
 }*/
+
+div{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(12, 12, 12);
+}
 body{
-    background-color: rgb(234, 122, 140);
+    
+    text-shadow: 2px 2px 2px rgb(16, 218, 20);
+    font-size: 2rem;
 }
